@@ -25,6 +25,8 @@ h2 {
     color:brown;
 }
 
+/*CSS below of box-center-left-right from your divs, boxes, bootstrap.mkv video.*/
+
 .box-center {
     position: relative;
     text-align: center;
@@ -43,6 +45,7 @@ h2 {
     right: 20px;
 }
 
+/*CSS below mostly from https://blog.hubspot.com/website/html-dropdown*/
 .dropbtn {
     background-color: #333;
     color: white;
@@ -77,6 +80,8 @@ h2 {
     color: #FFFFFF;
     background-color: brown;
   }
+
+  /*CSS below mostly from https://www.w3schools.com/css/css_navbar_horizontal.asp*/
 
   ul {
     list-style-type: none;
