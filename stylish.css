@@ -39,6 +39,7 @@ a span {
 
 .mini-heading {
     font-size: x-large;
+    position: relative;
     font-weight: bold;
     color:brown;
 }
