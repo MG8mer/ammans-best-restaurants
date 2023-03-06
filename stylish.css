@@ -34,7 +34,7 @@ a span {
 #mini_me {
     position: relative;
     text-align: right;
-    right: 10%;
+    right: 13%;
 }
 
 .mini-heading {
@@ -51,7 +51,10 @@ a span {
     text-align: center;
     width: 50%;
     left: 25%
+}
 
+#center {
+  left: 20%
 }
 
 .box-left {
