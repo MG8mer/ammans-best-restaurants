@@ -31,12 +31,6 @@ a span {
   position: relative;
 }
 
-#mini_me {
-    position: relative;
-    text-align: right;
-    right: 13%;
-}
-
 .mini-heading {
     font-size: x-large;
     position: relative;
@@ -51,10 +45,6 @@ a span {
     text-align: center;
     width: 50%;
     left: 25%
-}
-
-#center {
-  left: 20%
 }
 
 .box-left {
