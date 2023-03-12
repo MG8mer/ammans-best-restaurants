@@ -124,3 +124,8 @@ a span {
   .active {
     background-color: darkgrey;
   }
+
+  hr {
+    color:brown;
+    height: 20px;
+  }
