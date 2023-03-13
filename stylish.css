@@ -57,6 +57,23 @@ a span {
     right: 20px;
 }
 
+#box-right {
+  position: relative;
+  right: 20%;
+  float: right;
+}
+
+.pborder {
+  border: solid 4px brown;
+  padding: 2px
+}
+
+#bcorner {
+  border-left: solid 3px brown;
+  background-color: rgb(251, 215, 172);
+  padding: 2px;
+}
+
 /*CSS below mostly from https://blog.hubspot.com/website/html-dropdown*/
 .dropbtn {
     background-color: #333;
@@ -127,5 +144,7 @@ a span {
 
   hr {
     color:brown;
-    height: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
