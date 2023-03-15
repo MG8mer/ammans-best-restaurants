@@ -38,7 +38,7 @@ a span {
     color:brown;
 }
 
-/*CSS below of box-center-left-right from your divs, boxes, bootstrap.mkv video.*/
+/*CSS of box-center-left-right from your divs, boxes, bootstrap.mkv video.*/
 
 .box-center {
     position: relative;
@@ -65,7 +65,12 @@ a span {
 
 .pborder {
   border: solid 4px brown;
-  padding: 2px
+  padding: 6px
+}
+
+.pdorder {
+  border: dashed 4px brown;
+  padding: 6px
 }
 
 #bcorner {
