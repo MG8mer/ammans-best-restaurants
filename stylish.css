@@ -46,14 +46,33 @@ a span {
     margin: 20px
 }
 
+#box-center {
+  position: relative;
+  left: 32%;
+  margin: 20px
+}
+
+#box-center2 {
+  position: relative;
+  left: 35%;
+  margin: 20px
+}
+
+
 .box-left {
     position: relative;
     left: 20px
 }
 
+#box-left {
+  position: relative;
+  left: 20px
+}
+
 .box-right {
     position: relative;
     right: 20px;
+    float: right;
 }
 
 #box-right {
