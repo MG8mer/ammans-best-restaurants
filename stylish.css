@@ -73,6 +73,7 @@ a span {
     position: relative;
     right: 20px;
     float: right;
+    text-align: right;
 }
 
 #box-right {
