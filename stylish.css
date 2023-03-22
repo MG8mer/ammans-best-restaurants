@@ -58,6 +58,18 @@ a span {
   margin: 20px
 }
 
+#box-center3 {
+  position: relative;
+  left: 30%;
+  margin: 20px
+}
+
+#box-center4 {
+  position: relative;
+  left: 29%;
+  margin: 20px
+}
+
 
 .box-left {
     position: relative;
