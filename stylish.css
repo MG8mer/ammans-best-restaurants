@@ -70,6 +70,12 @@ a span {
   margin: 20px
 }
 
+#box-center6 {
+  position: relative;
+  left: 38%;
+  margin: 20px
+}
+
 
 .box-left {
     position: relative;
